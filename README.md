@@ -34,3 +34,5 @@ comportements individuels, collectifs, parasites (p.ex: bloquer l'adversaire), e
 *Testeur_IA_*.py
 *teamwars_*.py
 
+###Sujet Officiel
+http://pages.isir.upmc.fr/~bredeche/pmwiki/pmwiki.php?n=Site.3i025
