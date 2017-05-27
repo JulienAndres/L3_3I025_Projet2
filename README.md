@@ -30,9 +30,9 @@ comportements individuels, collectifs, parasites (p.ex: bloquer l'adversaire), e
 * robot randomsearch-*.py
 * subsomption_*.py
 
-###Fichiers de test
+### Fichiers de test
 * Testeur_IA_*.py
 * teamwars_*.py
 
-###Sujet Officiel
+### Sujet Officiel
 http://pages.isir.upmc.fr/~bredeche/pmwiki/pmwiki.php?n=Site.3i025
