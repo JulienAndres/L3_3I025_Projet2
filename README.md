@@ -18,21 +18,21 @@ code écrit à la main, code obtenu par un processus d'apprentissage ou d'optimi
 comportements individuels, collectifs, parasites (p.ex: bloquer l'adversaire), etc.
 
 ### Fichier de jeu 
-*multirobot_teamwars.py
+* multirobot_teamwars.py
 
-###Fichiers d'apprentissage
-*Couche_cache.py
-*boid_mur.py
-*braitenberg_hate.py
-*braitenberg_love.py
-*robot_love.py
-*robot_love_boid.py
-*robot randomsearch-*.py
-*subsomption_*.py
+### Fichiers d'apprentissage
+* Couche_cache.py
+* boid_mur.py
+* braitenberg_hate.py
+* braitenberg_love.py
+* robot_love.py
+* robot_love_boid.py
+* robot randomsearch-*.py
+* subsomption_*.py
 
 ###Fichiers de test
-*Testeur_IA_*.py
-*teamwars_*.py
+* Testeur_IA_*.py
+* teamwars_*.py
 
 ###Sujet Officiel
 http://pages.isir.upmc.fr/~bredeche/pmwiki/pmwiki.php?n=Site.3i025
